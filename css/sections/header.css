@@ -64,4 +64,7 @@
   gap: 20px;
 
   position: relative;
+  color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
 }
